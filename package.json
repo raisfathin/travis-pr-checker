@@ -1,0 +1,17 @@
+{
+  "name": "travisprchecker",
+  "version": "0.0.0",
+  "description": "Travis PR Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raisfathin",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cheerio": "^0.20.0",
+    "commander": "^2.9.0",
+    "request": "^2.70.0"
+  }
+}
